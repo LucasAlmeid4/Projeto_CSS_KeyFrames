@@ -3,7 +3,7 @@ Nessa revisão foram desenvolvidas: Um projeto de portfólio, uma chat loading p
 
 Projeto proporcionado pela DIO, e uma ótima revisão pra mim: 
 
-Propósito  era fazer tudo com HTML e o CSS Transitions utilizando pseudo elementos, pseudo classes e também CSS @keyframes
+Propósito  era fazer tudo com HTML e o CSS Transitions utilizando pseudo elementos, pseudo classes e também @keyframes
 
 
 ![parte 1](https://user-images.githubusercontent.com/95774203/174191155-d96bb4df-fee1-4ef5-9874-ac61e05292b9.png)
